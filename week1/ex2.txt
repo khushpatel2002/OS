@@ -27,7 +27,7 @@
    27  get new.txt
    28  cat new.txt
    29  ls
-   30  cat > new.txt "Syck my dick"
+   30  cat > new.txt "new"
    31  cat > new.txt
    32  cat new.txt
    33  khushp
